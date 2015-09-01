@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       Tony Gaeta
+email:       tony.gaeta@gmail.com
+author:      Tony Gaeta
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://tgaeta.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
