@@ -1,19 +1,15 @@
 ---
 layout: page
-title: About Pixyll
+title: Mini-Autobiography
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Tony Gaeta is a 7th generation Floridian and was born and raised in [St. Petersburg, FL](https://goo.gl/9ausn9). He is an active member of the United States Army Reserves and has served as an intelligence officer in both Iraq and Afghanistan. He recently worked as an intelligence analyst at The United States Special Operations Command ([USSOCOM](http://www.socom.mil/default.aspx)) in Tampa, FL. In late December of 2014, Tony left the intelligence community to pursue a career in web development by attending [The Iron Yard](http://theironyard.com/locations/tampa-st-petersburg/) in Downtown St. Pete. Tony is married and has a two-year old son named Ty. His hobbies include learning something new, coding, video games, fishing, and attending Rays and Lightning games.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Follow me:
 
-Thanks to the following:
+* [GitHub](https://www.github.com/tgaeta)
+* [Twitter](https://www.twitter.com/tgaeta)
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+
+<sub>This [Jekyll](http://jekyllrb.com/) theme was crafted with &hearts; by [John Otander](http://johnotander.com)
