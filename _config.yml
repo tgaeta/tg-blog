@@ -4,7 +4,7 @@ email:       tony.gaeta@gmail.com
 author:      Tony Gaeta
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://tgaeta.github.io"
+url:         "http://tonygaeta.com/"
 date_format: "%b %-d, %Y"
 
 # Google services
