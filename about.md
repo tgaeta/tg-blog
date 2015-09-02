@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mini-Autobiography
+title: About Me
 permalink: /about/
 ---
 
