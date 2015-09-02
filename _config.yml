@@ -19,13 +19,13 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: tgaeta
+disqus_shortname:
 
 # Social icons
-github_username: tgaeta
+github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username: tgaeta
+twitter_username:
 google_plus_id:
 linkedin_username:
 angellist_username:
