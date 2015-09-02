@@ -15,6 +15,6 @@ footer {
   font-size: $footer-font-size;
   font-weight: $footer-font-weight;
   padding: $footer-padding;
-  position: fixed;
+  position: sticky;
   text-align: center;
 }
