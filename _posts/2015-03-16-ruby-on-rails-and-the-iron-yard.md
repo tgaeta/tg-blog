@@ -8,7 +8,7 @@ categories: the-iron-yard ruby-on-rails ruby
 
 The past five weeks have been hell. From the time of my last blog post to now, I have put every waking minute and ounce of energy into the Ruby on Rails course at The Iron Yard. This is, without a doubt, not a course for the faint-of-heart.
 
-![Ruby on Rails Wallpaper](http://i.imgur.com/H3CE0j8.jpg)
+![Ruby on Rails Wallpaper](/images/ruby.jpg)
 
 With that said, I have learned so much in such a short amount of time. I have studied and learned Ruby, Ruby on Rails, Twitter Bootstrap, Git, GitHub, HTML, CSS, Sass, APIs, Gems, JSON, Bourbon, Amazon Web Services, S3, and much more. And not just the big picture stuff, but the inner-workings and catalysts that drive these frameworks.
 
@@ -20,7 +20,7 @@ Here are a few projects I've worked on over the past weeks:
 
 #### A movie search app that uses the Rotten Tomatoes API | _Rails, Bootstrap, and Rotten Tomatoes API_
 <br>
-![Muuvee](http://i.imgur.com/oNEvnzW.gif)
+![Muuvee](/images/muuvee.gif)
 
 ## Pinterest
 
