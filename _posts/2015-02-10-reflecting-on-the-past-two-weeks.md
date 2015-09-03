@@ -9,6 +9,7 @@ categories: the-iron-yard ruby-on-rails ruby
 It has already been two weeks since class started. In the span of 14 days, I have crammed in more knowledge about object oriented programming (OOP) than I thought possible.
 
 A brief time-line of what I have learned so far:
+
 <iframe src="http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AjbUkbWZW6i_dHJ3VURneFRDTjdyZzZqMVJPZ25UX0E&amp;font=DroidSerif-DroidSans&amp;maptype=toner&amp;lang=en&amp;height=650" width="100%" height="650" frameborder="1"></iframe>
 
 This is without a doubt the toughest course I've ever been through, but I absolutely love it. It can be frustrating at times... extremely frustrating. But I'm not giving up. My nights have gone from a 10 o'clock shut-eye to leaving the school house around 10:30 PM. I'm up most nights till 1:30 AM finishing homework while trying to cement the concepts I've been taught. I'm exhausted but I want more.
