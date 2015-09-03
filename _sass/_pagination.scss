@@ -20,7 +20,7 @@
   opacity: 0.5;
 }
 
-.pagination a:hover, .pagination a:focus {
+.no-touch .pagination a:hover, .pagination a:focus {
   background: white;
   color: #477dca;
 }
@@ -40,7 +40,7 @@
   background-color: #999;
 }
 
-.button-disabled:hover,
+.no-touch .button-disabled:hover,
 .button-disabled:active,
 .button-disabled:focus {
   cursor: not-allowed;
