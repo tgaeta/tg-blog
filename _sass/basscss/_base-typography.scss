@@ -4,6 +4,8 @@ body {
   font-family: $font-family;
   line-height: $line-height;
   font-size: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -17,6 +19,8 @@ h6 {
   line-height: $heading-line-height;
   margin-top: 1em;
   margin-bottom: .5em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 p,
@@ -26,11 +30,15 @@ ul {
   font-size: $h4;
   margin-top: 0;
   margin-bottom: $space-2;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 ol,
 ul {
   padding-left: $space-3;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 pre,
@@ -38,17 +46,23 @@ code,
 samp {
   font-family: $monospace-font-family;
   font-size: inherit;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 pre {
   margin-top: 0;
   margin-bottom: $space-2;
   overflow-x: scroll;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 hr {
   margin-top: $space-3;
   margin-bottom: $space-3;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 blockquote {
@@ -57,45 +71,63 @@ blockquote {
   margin-left: 0;
   padding-left: $space-2;
   padding-right: $space-2;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 blockquote,
 blockquote p {
   font-size: $h3;
   font-style: italic;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
 .h1 {
   font-size: $h1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h2,
 .h2 {
   font-size: $h2;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h3,
 .h3 {
   font-size: $h3;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h4,
 .h4 {
   font-size: $h4;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h5,
 .h5 {
   font-size: $h5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h6,
 .h6 {
   font-size: $h6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .list-reset {
   list-style: none;
   padding-left: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
