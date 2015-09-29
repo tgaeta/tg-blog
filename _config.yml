@@ -12,14 +12,15 @@ google_analytics:
 google_verification:
 
 # Optional features
-animated:           true
-show_related_posts: false
-show_post_footers:  true
-show_social_icons:  false
+animated:             true
+show_related_posts:   false
+show_post_footers:    true
+show_social_icons:    false
+ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: tgaeta
 
 # Social icons
 github_username:
@@ -46,7 +47,7 @@ share_digg: false
 share_tumblr: false
 share_reddit: true
 share_stumbleupon: false
-share_hackernews: true
+share_hackernews: false
 
 # Build settings
 markdown:     kramdown

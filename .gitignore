@@ -4,3 +4,9 @@ _site
 
 # Ignore the config file that's used for gh-pages.
 _config.gh-pages.yml
+
+_posts/2014-06-11-welcome-to-pixyll.markdown
+
+_posts/2015-07-11-announcing-pixyll-version-2.md
+
+_posts/2015-09-03-how-i-landed-a-job-as-a-junior-software-engineer-with-zero-experience.md
