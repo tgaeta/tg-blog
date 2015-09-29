@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How I Landed a Job as a Junior Software Engineer With Zero Coding Experience
+title:      How I Landed a Job as a Junior Software Engineer with Zero Coding Experience
 date:       2015-09-28 19:42:00
 summary:    A how-to on quitting your dead-end job and getting a new career as a junior software engineer.
 categories: the-iron-yard ruby-on-rails ruby spatial-networks
