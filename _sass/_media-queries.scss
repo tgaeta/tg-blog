@@ -42,11 +42,21 @@
   .social-icons-right {
     text-align: right;
   }
+
+  .profile-image {
+    height: 154.5px;
+    width: 154.5px;
+  }
 }
 
 @media screen and (min-width: $viewport-medium) {
   html {
     font-size: 18px;
+  }
+
+  .profile-image {
+    height: 154.5px;
+    width: 154.5px;
   }
 }
 
@@ -54,11 +64,21 @@
   html {
     font-size: 20px;
   }
+
+  .profile-image {
+    height: 250px;
+    width: 250px;
+  }
 }
 
 @media screen and (min-width: $viewport-large + 14) {
   em img {
     max-width: $measure-width + 14;
     margin-left: -7em;
+  }
+
+  .profile-image {
+    height: 250px;
+    width: 250px;
   }
 }
