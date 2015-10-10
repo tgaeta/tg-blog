@@ -10,6 +10,3 @@ Follow me:
 
 * [GitHub](https://www.github.com/tgaeta)
 * [Twitter](https://www.twitter.com/tgaeta)
-
-
-<sub>This [Jekyll](http://jekyllrb.com/) theme was crafted with &hearts; by [John Otander](http://johnotander.com)
