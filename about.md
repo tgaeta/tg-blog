@@ -8,4 +8,4 @@ Tony Gaeta is a 7th generation Floridian and was born and raised in [St. Petersb
 
 Tony is married and has a two and half year old son named Ty and is expecting his second son in early Spring 2016. His hobbies include learning something new, coding, video games, fishing, and attending Tampa Bay Rays, Lightning, and Rowdies games. Follow him on [GitHub](https://www.github.com/tgaeta) and [Twitter](https://www.twitter.com/tgaeta).
 
-<img class="profile-image" src="/images/tonygaeta.png">
+<img class="profile-image" src="/images/tonygaeta.jpg">
