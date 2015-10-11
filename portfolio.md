@@ -25,5 +25,3 @@ A free job board built for businesses local to St. Pete.
 A landing page for a local landscaping company.
 
 ![Mulhern Landscape Landing Page](/images/mulhernlandscapescreen.jpg)
-
----
