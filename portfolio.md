@@ -25,3 +25,21 @@ A free job board built for businesses local to St. Pete.
 A landing page for a local landscaping company.
 
 ![Mulhern Landscape Landing Page](/images/mulhernlandscapescreen.jpg)
+
+---
+
+[SCC-Monitor](https://sccdemo.herokuapp.com/){:target="blank"}
+
+A backend redesign for [DTS Software](http://www.dtssoftware.com/){:target="blank"}'s SCC-Monitor.
+
+SCC-Monitor is a web interface for IBM mainframe systems running Zos. It allows the user to make API requests to the mainframe and turn text and binary data into interactive grids and charts. The reports can be emailed to the user or kept in cloud based storage.
+
+![SCC-Monitor Welcome Screen](/images/scc.jpg)
+
+---
+
+Pinterested?
+
+A [Pinterest](http://www.pinterest.com/){:target="blank"} clone. One of the earliest full-stack projects from my time at The Iron Yard.
+
+![Pinterested? Home Screen](/images/pinterested.jpg)
