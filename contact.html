@@ -6,7 +6,7 @@ permalink: /contact/
 
 <div class="py2">
     <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
-      <input type="email" name="email" class="field-light" required placeholder="Email Address">
+      <input type="email" name="email" data-validation="email" class="field-light" required placeholder="Email Address">
       <textarea type="text" name="content" class="field-light" rows="5" required placeholder="What would you like to say?"></textarea>
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
       <input type="hidden" name="_subject" value="New submission!" />
@@ -14,3 +14,13 @@ permalink: /contact/
       <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
     </form>
 </div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-form-validator/2.2.8/jquery.form-validator.min.js"></script>
+<script type="text/javascript" src="js/modernizr.js"></script>
+
+<script>
+  $.validate({
+    modules : 'html5'
+  });
+</script>
