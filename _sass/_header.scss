@@ -4,9 +4,10 @@
 }
 
 .site-header a {
-  color: #2E3133;
+  color: #404040;
   font-size: $h3;
   font-weight: 300;
+  text-decoration: none;
 }
 
 .site-header .site-title {
@@ -21,7 +22,10 @@
   color: #666;
 }
 
-.no-touch .site-header nav a:hover,
+.no-touch .site-header nav a:hover {
+  text-decoration: none;
+}
+
 .no-touch .site-header nav a:focus,
 .no-touch .site-header nav a:active {
   color: #444;

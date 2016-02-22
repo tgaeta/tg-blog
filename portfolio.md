@@ -3,7 +3,13 @@ layout: page
 title: Recent Work
 permalink: /portfolio/
 ---
+[Intro to Haml Course](http://tgaeta.github.io/intro-to-haml/#/){:target="blank"}
 
+Led an introduction to Haml class at [The Iron Yard](http://www.theironyard.com/) in St. Pete, FL, in the Fall of 2015. The source files can be viewed [here](https://github.com/tgaeta/intro-to-haml){:target="blank"}.
+
+![Intro to Haml Screenshot](/images/haml.png)
+
+---
 [Fulcrum](http://www.fulcrumapp.com){:target="blank"}
 
 Currently serving as a software engineer working on the backend of one of the coolest and most powerful mobile form builders to date. Fulcrum allows you to easily create and deploy mobile forms and surveys to your iPhone, iPad, & Android devices.

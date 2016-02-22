@@ -8,7 +8,7 @@ abbr {
 }
 
 p {
-  color: #2E3133;
+  color: #404040;
   line-height: 180%;
   font-size: 20px;
   font-weight: 100;
@@ -17,4 +17,10 @@ p {
 small,
 .small {
   font-size: 0.707rem;
+}
+
+sup {
+  position: relative;
+  vertical-align: middle;
+  top: -0.9ex;
 }
