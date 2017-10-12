@@ -12,7 +12,7 @@ Led an introduction to Haml class at [The Iron Yard](http://www.theironyard.com/
 ---
 [Fulcrum](http://www.fulcrumapp.com){:target="blank"}
 
-Currently serving as a software engineer working on the backend of one of the coolest and most powerful mobile form builders to date. Fulcrum allows you to easily create and deploy mobile forms and surveys to your iPhone, iPad, & Android devices.
+Served as a software engineer working on the backend of Fulcrum. Fulcrum allows you to easily create and deploy mobile forms and surveys to your iPhone, iPad, & Android devices.
 
 ![Fulcrum Landing Page on Desktops](/images/fulcrum.jpg)
 
