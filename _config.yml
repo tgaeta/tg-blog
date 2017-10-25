@@ -57,3 +57,6 @@ permalink:    /blog/:year/:month/:day/:title/
 paginate:     4
 sass:
   compressed: true
+
+# Gems
+gems: [jekyll-paginate]
