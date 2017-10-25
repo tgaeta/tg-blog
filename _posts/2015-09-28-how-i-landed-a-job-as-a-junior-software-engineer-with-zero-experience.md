@@ -5,7 +5,7 @@ date:       2015-09-28 19:42:00
 summary:    A how-to on quitting your dead-end job and getting a new career as a junior software engineer.
 categories: the-iron-yard ruby-on-rails ruby spatial-networks
 ---
-Four months ago, I graduated from a code school that taught me the basics of Ruby and Ruby on Rails. A week later, I had two interviews. Two weeks following the interviews, I declined the first company’s offer and accepted an offer from an [amazing team](http://spatialnetworks.com/team){:target="blank"}, a group I had been eyeing since six months before attending code school. Besides learning how to code for eight weeks and using the last four to build my graduation app ([a job board](http://stpete.io){:target="blank"}), what actual experience did I have that could land me a job? Zero. Nevertheless, here is how I went from a dead-end job to junior software engineer in four months.
+Four months ago, I graduated from a code school that taught me the basics of Ruby and Ruby on Rails. A week later, I had two interviews. Two weeks following the interviews, I declined the first company’s offer and accepted an offer from an [amazing team](http://spatialnetworks.com/team){:target="blank"}, a group I had been eyeing since six months before attending code school. Besides learning how to code for eight weeks and using the last four to build my graduation app ([a job board](http://spjb.herokuapp.com/){:target="blank"}), what actual experience did I have that could land me a job? Zero. Nevertheless, here is how I went from a dead-end job to junior software engineer in four months.
 
 ## First Things First. Just Do It!
 

@@ -18,7 +18,7 @@ Served as a software engineer working on the backend of Fulcrum. Fulcrum allows 
 
 ---
 
-[St. Pete Job Board](http://stpete.io){:target="blank"}
+[St. Pete Job Board](http://spjb.herokuapp.com/){:target="blank"}
 
 A free job board built for businesses local to St. Pete.
 
