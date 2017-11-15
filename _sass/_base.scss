@@ -5,11 +5,13 @@ html, body {
 
 img {
   max-width: 100%;
+  image-rendering: -webkit-optimize-contrast;
 }
 
 em img {
   max-width: 100%;
   margin-left: 0;
+  image-rendering: -webkit-optimize-contrast;
 }
 
 body {

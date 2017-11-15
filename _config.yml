@@ -2,7 +2,7 @@
 title:       Tony Gaeta
 email:       tony.gaeta@gmail.com
 author:      Tony Gaeta
-description: "Web Developer | Autodidact | St. Petersburg, FL"
+description: "Husband • Father • Coder • Runner • St. Pete, FL"
 baseurl:     ""
 url:         "http://tonygaeta.com"
 date_format: "%b %-d, %Y"
@@ -20,32 +20,32 @@ ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: tgaeta
+disqus_shortname:
 
 # Social icons
-github_username:
+github_username: tgaeta
 bitbucket_username:
-stackoverflow_id:
-twitter_username:
+stackoverflow_id: tgaeta
+twitter_username: tgaeta
 google_plus_id:
-linkedin_username:
+linkedin_username: tgaeta
 angellist_username:
-medium_id:
+medium_id: tgaeta
 bitcoin_url:
 paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: true
-share_twitter: true
-share_googleplus: true
-share_linkedin: true
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: true
+share_reddit: false
 share_stumbleupon: false
 share_hackernews: false
 

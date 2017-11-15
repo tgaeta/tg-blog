@@ -4,17 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-Tony hails from St. Petersburg, Florida, just outside of Tampa. It was while leading a team of intelligence analysts at The United States Special Operations Command (USSOCOM) that he realized his aptitude for coding. Blending his technical and creative talents with his desire to learn, web development soon became the focus of his career. He left the intelligence community in 2014 and never looked back.
+Hi! I'm Tony. I build websites and webapps from time to time. When I'm not near a computer, you can find me running along the water in St. Pete, FL watching the sunrise, taking pictures of whatever is interesting at the moment, reading, and spending quality time with my wife and two boys.
 
-He would love to work for a team that focuses on test driven development, code maintainability, and has a product-driven mindset. The primary technologies he's most comfortable with is Ruby on Rails, Ruby, PostgreSQL, Javascript, HTML/HAML, and CSS/SASS.
+I would love to work for a team that focuses on test driven development, code maintainability, and has a product-driven mindset.
 
 <div class="py2 post-footer">
   <img class="profile-image" src="/images/tonygaeta.png">
   <br>
   <p>
-    Web Developer | Autodidact | St. Petersburg, FL
+    Husband • Father • Coder • Runner • St. Pete, FL
   </p>
   <p>
-    Follow him on <a href="https://twitter.com/tgaeta">Twitter</a> and <a href="https://github.com/tgaeta">GitHub</a>.
+    <a href="https://twitter.com/tgaeta">Twitter</a> • <a href="https://github.com/tgaeta">GitHub</a>
   </p>
 </div>

@@ -44,8 +44,8 @@
   }
 
   .profile-image {
-    height: 154.5px;
-    width: 154.5px;
+    height: auto;
+    width: 50%;
   }
 }
 
@@ -55,8 +55,8 @@
   }
 
   .profile-image {
-    height: 154.5px;
-    width: 154.5px;
+    height: auto;
+    width: 50%;
   }
 }
 
@@ -66,8 +66,8 @@
   }
 
   .profile-image {
-    height: 250px;
-    width: 250px;
+    height: auto;
+    width: 50%;
   }
 }
 
@@ -75,11 +75,12 @@
   em img {
     max-width: $measure-width + 14;
     margin-left: -7em;
+    image-rendering: -webkit-optimize-contrast;
   }
 
   .profile-image {
-    height: 250px;
-    width: 250px;
+    height: auto;
+    width: 50%;
   }
 }
 
