@@ -14,7 +14,4 @@ I would love to work with a team that focuses on test-driven development, code m
   <p>
     Husband • Father • Coder • Runner • St. Pete, FL
   </p>
-  <p>
-    <a href="https://twitter.com/tgaeta">Twitter</a> • <a href="https://github.com/tgaeta">GitHub</a>
-  </p>
 </div>
