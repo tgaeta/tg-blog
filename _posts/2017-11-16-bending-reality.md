@@ -7,10 +7,10 @@ categories: photography enlightenment
 ---
 It is the beginning of a portal. Most humans cannot see what it really is.
 
-![St. Petersburg, FL Sunrise](/images/reality-compressor.jpg)
+![Beam of light passing through Baby Gate](/images/reality-compressor.jpg)
 
-![St. Petersburg, FL North Shore Park Sunrise](/images/bending-light-compressor.jpg)
+![Beam of light passing through Baby Gate mirrored](/images/bending-light-compressor.jpg)
 
-![Downtown St. Pete, FL Sunrise](/images/bending-reality-compressor.jpg)
+![Beam of light passing through Baby Gate mirrored and reversed creating a rhombus portal](/images/bending-reality-compressor.jpg)
 
 It is only when 'I' disappear does the picture become complete.
