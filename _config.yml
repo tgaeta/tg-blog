@@ -13,9 +13,9 @@ google_verification:
 
 # Optional features
 animated:             false
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 
 # Disqus post comments
@@ -25,12 +25,12 @@ disqus_shortname:
 # Social icons
 github_username: tgaeta
 bitbucket_username:
-stackoverflow_id: tgaeta
+stackoverflow_id:
 twitter_username: tgaeta
 google_plus_id:
 linkedin_username: tgaeta
-angellist_username:
-medium_id: tgaeta
+angellist_username: tgaeta
+medium_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
